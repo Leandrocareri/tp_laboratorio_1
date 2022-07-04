@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1656902863 source:c:\users\leand\onedrive\escritorio\tp4\tp2_prueba_final\arraypassenger.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"inputs.h"
+	"arrayPassenger.h"
+
+1656850601 c:\users\leand\onedrive\escritorio\tp4\tp2_prueba_final\menu.h
+
+1656902876 c:\users\leand\onedrive\escritorio\tp4\tp2_prueba_final\arraypassenger.h
+
+1656902986 source:c:\users\leand\onedrive\escritorio\tp4\tp2_prueba_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"arrayPassenger.h"
+	"inputs.h"
+
+1656858984 c:\users\leand\onedrive\escritorio\tp4\tp2_prueba_final\inputs.h
+
+1656854403 source:c:\users\leand\onedrive\escritorio\tp4\tp2_prueba_final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"arrayPassenger.h"
+	"inputs.h"
+
+1656858566 source:c:\users\leand\onedrive\escritorio\tp4\tp2_prueba_final\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+
